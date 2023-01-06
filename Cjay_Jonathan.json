@@ -1,0 +1,48 @@
+{
+
+  "name": "Chukwuma Jonathan",
+
+  "displayStatsPublic": true,
+
+  "type": "personal",
+
+  "bio": "Engineer turned **Programmer**. Travel enthusiast and tech aficionado",
+
+  "avatar": "https://github.com/cjayjonathan.png",
+
+"links": [
+
+    {
+
+      "name": "Follow me on Twitter",
+
+      "url": "https://twitter.com/KelDanteAlexis",
+
+      "icon": "FaTwitter"
+
+    },
+
+{
+
+      "name": "Follow me on Instagram",
+
+      "url": "https://instagram.com/chukwuma_joe",
+
+      "icon": "FaInstagram"
+
+    },
+
+{
+
+      "name": "Follow me on LinkedIn",
+
+      "url": https://www.linkedin.com/mwlite/in/chukwuma-jonathan-717a44216",
+
+      "icon": "FaLinkedIn"
+
+    }
+
+  ]
+
+}
+
